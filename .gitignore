@@ -1,0 +1,13 @@
+# footage and renders stay on your machine
+raw/*
+!raw/.gitkeep
+transcript/*
+!transcript/.gitkeep
+vendor/*
+!vendor/.gitkeep
+cut.mp4
+*.fcpxml
+*.fcpbundle/
+.mcp.json
+__pycache__/
+.DS_Store
